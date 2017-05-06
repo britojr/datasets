@@ -1,0 +1,28 @@
+Time-bound=100
+Reading Markov network
+Solver inited
+Domains reduced
+Domains reduced
+SampleSearch not necessary
+Treewidth = 8
+# sampled = 5
+# sampled = 5
+Limit for exact inf = 3.2
+Dom size i-bound = 4
+Join graph constructed
+Nodes initialized
+Iteration 0 Done
+Iteration 1 Done
+Iteration 2 Done
+Iteration 3 Done
+Iteration 4 Done
+Iteration 5 Done
+Iteration 6 Done
+Iteration 7 Done
+Iteration 8 Done
+Iteration 9 Done
+Iteration 10 Done
+Iteration 11 Done
+Iteration 12 Done
+Initing POS
+Num Samples = 147

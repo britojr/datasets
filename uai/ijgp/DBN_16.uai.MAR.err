@@ -1,0 +1,63 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 23
+# sampled = 6
+# sampled = 6
+Limit for exact inf = 4.5
+log 10 num values = 1.80618
+not propagating: 380.164 287.745
+not propagating: 380.068 303.799
+not propagating: 379.981 279.75
+not propagating: 379.901 311.134
+not propagating: 379.827 282.316
+not propagating: 379.758 319.136
+not propagating: 379.694 348.111
+not propagating: 379.633 314.671
+not propagating: 379.576 285.697
+not propagating: 379.522 307.64
+not propagating: 379.47 278.994
+not propagating: 379.422 309.767
+not propagating: 379.375 338.732
+not propagating: 379.331 303.562
+not propagating: 379.288 283.281
+not propagating: 379.247 317.636
+not propagating: 379.208 288.661
+not propagating: 379.17 308.48
+not propagating: 379.134 280.935
+not propagating: 379.099 312.049
+not propagating: 379.065 283.078
+not propagating: 379.032 320.052
+not propagating: 379 349.027
+not propagating: 378.97 306.563
+not propagating: 378.94 281.953
+not propagating: 378.911 317.11
+not propagating: 378.883 288.146
+not propagating: 378.855 319.238
+not propagating: 378.829 348.202
+not propagating: 378.803 313.032
+not propagating: 378.777 284.069
+not propagating: 378.753 314.319
+not propagating: 378.728 343.284
+not propagating: 378.7 349.49
+not propagating: 378.677 318.398
+not propagating: 378.655 347.362
+not propagating: 378.634 312.192
+not propagating: 378.613 283.227
+not propagating: 378.592 305.647
+not propagating: 378.572 277.701
+not propagating: 378.552 312.429
+not propagating: 378.533 283.464
+not propagating: 378.514 314.556
+not propagating: 378.495 343.521
+not propagating: 378.477 308.351
+not propagating: 378.459 279.392
+not propagating: 378.441 308.612
+not propagating: 378.424 279.831
+not propagating: 378.406 313.269
+not propagating: 378.39 284.305
+not propagating: 378.373 303.025
+not propagating: 378.357 282.177
+not propagating: 378.341 311.027
+not propagating: 378.325 340.002
+Explored = 64out of 64
+Exact answer

@@ -1,0 +1,28 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 19
+# sampled = 5
+# sampled = 5
+Limit for exact inf = 4.5
+log 10 num values = 1.50515
+not propagating: -25.9902 -46.3703
+not propagating: -26.0856 -50.2973
+not propagating: -26.1726 -47.4579
+not propagating: -26.2526 -41.5156
+not propagating: -26.3267 -44.4306
+not propagating: -26.5206 -40.4631
+not propagating: -26.5778 -46.2168
+not propagating: -26.6319 -52.8912
+not propagating: -26.6832 -49.9762
+not propagating: -26.7319 -55.9185
+not propagating: -26.7785 -58.758
+not propagating: -26.8229 -54.8309
+not propagating: -26.8655 -49.0782
+not propagating: -26.9063 -40.7668
+not propagating: -26.9455 -46.5195
+not propagating: -26.9833 -50.4466
+not propagating: -27.0196 -47.6071
+not propagating: -27.0547 -41.6648
+not propagating: -27.0886 -44.5798
+Explored = 32out of 32
+Exact answer

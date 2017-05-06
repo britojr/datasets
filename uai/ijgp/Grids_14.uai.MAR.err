@@ -1,0 +1,25 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 21
+# sampled = 5
+# sampled = 5
+Limit for exact inf = 4.5
+log 10 num values = 1.50515
+not propagating: 1143.76 1109.14
+not propagating: 1143.66 1118.16
+not propagating: 1143.42 1113.26
+not propagating: 1143.35 1121.57
+not propagating: 1143.29 1124.41
+not propagating: 1143.11 1114.86
+not propagating: 1143.06 1125.8
+not propagating: 1143.05 1129.26
+not propagating: 1142.92 1115.16
+not propagating: 1142.88 1122.1
+not propagating: 1142.85 1111.73
+not propagating: 1142.81 1125.5
+not propagating: 1142.78 1112.06
+not propagating: 1142.74 1100.38
+not propagating: 1142.71 1124.09
+not propagating: 1142.68 1117.15
+Explored = 32out of 32
+Exact answer

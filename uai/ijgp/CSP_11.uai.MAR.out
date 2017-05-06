@@ -1,0 +1,17 @@
+CSP_11.uai.MAR
+Evidence read
+Total time = 120
+i-bound = 7
+rb-bound = 11.5357
+num iterations  = 17
+Smallest cutset size inited to 1.79769e+308
+7.62462 1.79769e+308 0 0
+lex inited
+18
+Join graph done
+Error = 0.0252803
+Error = 0.0166269
+Error = 0.0141896
+Error = 0.0114638
+Error = 0.0060053
+Error = 0.00499977

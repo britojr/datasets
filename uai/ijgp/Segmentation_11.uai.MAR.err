@@ -1,0 +1,9 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 19
+# sampled = 4
+# sampled = 4
+Limit for exact inf = 4.5
+log 10 num values = 1.20412
+Explored = 16out of 16
+Exact answer

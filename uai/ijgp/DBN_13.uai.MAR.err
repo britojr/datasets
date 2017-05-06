@@ -1,0 +1,14 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 23
+# sampled = 6
+# sampled = 6
+Limit for exact inf = 4.5
+log 10 num values = 1.80618
+not propagating: 145.132 131.269
+not propagating: 147.401 132.056
+not propagating: 147.336 130.692
+not propagating: 147.275 129.866
+not propagating: 147.218 130.585
+not propagating: 146.983 131.782
+Explored = 37out of 64

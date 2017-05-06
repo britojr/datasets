@@ -1,0 +1,17 @@
+ObjectDetection_40.uai.MAR
+Evidence read
+Total time = 120
+i-bound = 3
+rb-bound = 11.848
+num iterations  = 17
+Smallest cutset size inited to 1.79769e+308
+13.5403 1.79769e+308 0 0
+10.8322 13.5403 2 0
+lex inited
+60
+Join graph done
+Error = 0.000332713
+Error = 7.83102e-05
+Error = 3.38821e-05
+Error = 1.36031e-05
+Error = 4.93332e-06

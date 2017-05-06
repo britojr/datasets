@@ -1,0 +1,8 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 21
+# sampled = 5
+# sampled = 5
+Limit for exact inf = 4.5
+log 10 num values = 1.50515
+Explored = 22out of 32

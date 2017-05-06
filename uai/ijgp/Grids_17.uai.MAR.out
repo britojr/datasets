@@ -1,0 +1,22 @@
+Grids_17.uai.MAR
+Evidence read
+Total time = 120
+i-bound = 14
+rb-bound = 9.95092
+num iterations  = 17
+Smallest cutset size inited to 1.79769e+308
+15.2492 1.79769e+308 0 0
+14.5561 15.2492 1 0
+13.8629 14.5561 2 0
+11.7835 13.8629 4 0
+11.0904 11.7835 85 0
+lex inited
+21
+Lex: #sampled = 126
+Join graph done
+Error = 0.305543
+Error = 0.34015
+Error = 0.349423
+Error = 0.30844
+Error = 0.26958
+Error = 0.217935

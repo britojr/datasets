@@ -1,0 +1,10 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 18
+# sampled = 4
+# sampled = 4
+Limit for exact inf = 4.5
+log 10 num values = 1.20412
+not propagating: -93.5838 -108.191
+Explored = 16out of 16
+Exact answer

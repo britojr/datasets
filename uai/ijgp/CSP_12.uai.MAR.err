@@ -1,0 +1,9 @@
+Time-bound=100
+Reading Markov network
+Treewidth = 12
+# sampled = 3
+# sampled = 3
+Limit for exact inf = 3.2
+log 10 num values = 0.90309
+Explored = 8out of 8
+Exact answer

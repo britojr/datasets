@@ -1,0 +1,12 @@
+Time-bound=100
+Reading Markov network
+Solver inited
+Domains reduced
+Domains reduced
+SampleSearch not necessary
+Treewidth = 8
+# sampled = 3
+# sampled = 3
+Limit for exact inf = 3.2
+log 10 num values = 3
+Explored = 175out of 1000
